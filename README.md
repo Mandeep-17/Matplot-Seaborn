@@ -1,2 +1,2 @@
 # Matplot-Seaborn
-Projects realated to Matplot and Seaborn
+Projects related to Matplot and Seaborn
